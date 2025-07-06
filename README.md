@@ -90,15 +90,6 @@ const imran = {
 - **Highlights:** Accessibility-focused, Hardware integration
 
 ---
-
-## 🎯 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Fira%20Code&ext=heatmap)
-
-**60+ Problems Solved** | **Active Problem Solver** | **DSA Enthusiast**
-
----
-
 ## 🏅 Achievements & Certifications
 
 - 🏆 **Selected for Smart India Hackathon (Internal Round)**
